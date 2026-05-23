@@ -1,0 +1,12 @@
+{
+  "name": "self-sovereign-id-vault",
+  "version": "1.0.0",
+  "description": "Professional Decentralized Identity (SSI) Vault",
+  "main": "identity-gen.js",
+  "dependencies": {
+    "did-resolver": "^4.1.0",
+    "key-did-resolver": "^3.0.0",
+    "uint8arrays": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
